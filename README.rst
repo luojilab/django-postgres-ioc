@@ -28,7 +28,7 @@ Running following command::
 
 Or using pip::
 
-  to be continue
+  $ pip install -U django-postgres-ioc
 
 Usage
 =====
