@@ -20,7 +20,7 @@ Requirements
 
   * Python >= 2.6
   * Django >= 1.7
-  * PostgreSQL >= 9.2
+  * PostgreSQL >= 9.5
 
 Installation
 ============
