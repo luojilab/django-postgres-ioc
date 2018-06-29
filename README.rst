@@ -18,7 +18,7 @@ This method will use ``INSERT ON CONFLICT`` feature to fix this.
 Requirements
 ============
 
-  * Python >= 2.6
+  * Python >= 2.6 (tested on 2.7 and 3.6)
   * Django >= 1.7
   * PostgreSQL >= 9.5
 
