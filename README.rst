@@ -1,6 +1,9 @@
 Introduction
 ============
 
+.. image:: https://img.shields.io/pypi/v/django-postgres-ioc.svg
+    :target: https://pypi.python.org/pypi/django-postgres-ioc
+
 Django ORM manager for Postgresql
 Came from Rock@luojilab
 
