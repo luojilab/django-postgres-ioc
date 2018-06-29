@@ -33,6 +33,8 @@ Or using pip::
 Usage
 =====
 
+Python code::
+
     from django.db import models
     from ioc import IOCManager
 
