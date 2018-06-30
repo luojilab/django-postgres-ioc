@@ -33,7 +33,7 @@ class IOCManager(models.Manager):
 
         if not is_postgres:
             # if not postgres, return update_or_create using Django origin
-            return super(RockPGManager, self).update_or_create(defaults, **kwargs)
+            return super(IOCManager, self).update_or_create(defaults, **kwargs)
 
         defaults = defaults or {}
         lookup, params = self._extract_model_params(defaults, **kwargs)
